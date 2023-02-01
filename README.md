@@ -1,4 +1,4 @@
-### Hi there 👋
+### LethalDarkLight
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LethalDarkLight)](https://github.com/LethalDarkLight/github-readme-stats)
 
